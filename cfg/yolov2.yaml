@@ -1,0 +1,4 @@
+S: 13
+num_anchors: 5
+num_classes: 20
+input_size: 416
